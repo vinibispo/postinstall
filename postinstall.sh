@@ -18,4 +18,4 @@ cp dotfiles/rofi -r .config/
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 git clone https://github.com/vinibispo/Desktop
 git clone https://github.com/vinibispo/Downloads
-
+git clone https://github.com/vinibispo/Pictures
